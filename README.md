@@ -1,5 +1,7 @@
 # Assessing community-needs gaps for resilience hubs in New Orleans
 
+### View:
+- [Research Question](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-question)
 
 
 ## Research question:

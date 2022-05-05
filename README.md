@@ -3,4 +3,4 @@
 ## some fun thing up front
 
 ## View:
-- [Project Brief](https://andrewatkinsonbernd.github.io/FinalProjectSite/projectbrief)
+- [Project Brief](https://andrewatkinsonbernd.github.io/FinalProjectSite/projectbrief.md)

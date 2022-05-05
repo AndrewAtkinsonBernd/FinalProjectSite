@@ -3,7 +3,8 @@
 ### View:
 - [Research Question](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-question)
 - [Research Approach](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-approach)
-- [Methodology](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-approach)
+- [Methodology](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#specific-methodology)
+- [Summary of Findings](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#specific-methodology)
 
 ## Research question:
 _What are the remaining gaps in emergency & resilience services that communities need in post-Katrina New Orleans?_
@@ -36,7 +37,7 @@ In comparing what people actually have access to and what they actually want (or
 7. Manual investigation into peaks and valleys around other similar search term proxies
 8. Comparison of manual search trend findings with data analysis*
 
-## Findings:
+## Summary of Findings:
 
 Our findings show a few obvious points, but broadly need to be taken with the caveat that this research was done with a limited set of data that may not effectively account for all the proxies that represent local needs. For example, we were not able to access data for church locations or non-hospital health clinics, which might skew what looks like access. Just as well, we did not map against elevation, which might influence how quickly some of the needed services might be rendered inaccessible.
 

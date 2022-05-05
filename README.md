@@ -13,5 +13,23 @@ We attempted to address this through google search trends, which proved interest
 In comparing what people actually have access to and what they actually want (or think they need) access to, we can attempt to bridge the gap between institutions and communities in easily actionable ways. 
 
 
-### Markdown
+## Research approach:
+
+1. Looking at the access to resources that might be of value in preperation of, during, and following a storm.  
+2. Looking at poverty line stats to see double vulnerability.
+3. Looking at search trends, which should indicate what people want, what they are concerned about, and what they think they need, even if all three of those points are detached from reality 
+4. Show govts where/what they need to be adding infrastructure to support high-risk communities
+5. Show gaps in data, gaps in data access, disconnect in ‘human error’ search vs need
+
+## Specific Methodology:
+
+1. Use census data to show percent of population living below 50% of the poverty line and see what neighborhoods may be worth focusing on.
+2. Asses recource density through Hexbin maping of individual resources (like hardware stores, or grocery stores)
+3. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
+3. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
+4. Network analysis for areas within .5 miles of individual resources
+5. etwork analysis for areas within .5 miles of combined resources
+6. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
+7. Manual investigation into peaks and valleys around other similar search term proxies
+8. Comparison of manual search trend findings with data analysis
 

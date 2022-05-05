@@ -31,7 +31,7 @@ In comparing what people actually have access to and what they actually want (or
 5. etwork analysis for areas within .5 miles of combined resources
 6. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
 7. Manual investigation into peaks and valleys around other similar search term proxies
-8. Comparison of manual search trend findings with data analysis
+8. Comparison of manual search trend findings with data analysis*
 
 ## Findings:
 
@@ -40,3 +40,6 @@ Our findings show a few obvious points, but broadly need to be taken with the ca
 What we find is that downtown New Orleans is the best suited given its density of services, and that the lower 9th ward, pushing east and heavily exposed, is broadly the worst off in terms of service accessibility. Physical, social, and economic vulnerability overlap in very clear ways, showing that high-income indicates high-access and vice versa. The Desire neighborhood in particular, however, is the most acute example of lowest-income and lowest-resource. Once identified, we did research around Desire, and found that it has recently been recognized as one of the most dangerous neighborhoods in the country, and so such accessibility to services as mentioned is both unsurprising and deeply difficult to remedy.
 
 While it makes little sense to argue for either implementation of services where they will not be used or abandonment of an already vulnerable neighborhood, this potentially reveals opportunities to offer more services on the periphery of Desire. This should also drive home the point of the need for service access and hubs for multiple services around several other neighborhoods, particularly those that are more exposed to flood-risk and have less recourse should emergencies occur (downtown New Orleans has easy access to multiple neighborhoods outside of the bowl, where Desire and the lower 9th have to go through the most flood-prone areas just to get out). 
+
+
+*The lack of access to more in-depth search data combined with caveats around lack of more specific data around resources people actually use in time of need (like churches) rather than the assumed/traditional places like grocery stores also presents a clear need for the NOLA GIS team to take a more community-focused approach to its data and data availability, such that its services might be more equitable and more reflective of local needs.

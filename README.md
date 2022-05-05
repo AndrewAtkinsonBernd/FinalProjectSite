@@ -19,7 +19,7 @@ In comparing what people actually have access to and what they actually want (or
 2. Looking at poverty line stats to see double vulnerability.
 3. Looking at search trends, which should indicate what people want, what they are concerned about, and what they think they need, even if all three of those points are detached from reality 
 4. Show govts where/what they need to be adding infrastructure to support high-risk communities
-5. Show gaps in data, gaps in data access, disconnect in ‘human error’ search vs need
+5. Show gaps in data, gaps in data access, disconnect in ‘human error’ search vs need*
 
 ## Specific Methodology:
 
@@ -33,3 +33,10 @@ In comparing what people actually have access to and what they actually want (or
 7. Manual investigation into peaks and valleys around other similar search term proxies
 8. Comparison of manual search trend findings with data analysis
 
+## Findings:
+
+Our findings show a few obvious points, but broadly need to be taken with the caveat that this research was done with a limited set of data that may not effectively account for all the proxies that represent local needs. For example, we were not able to access data for church locations or non-hospital health clinics, which might skew what looks like access. Just as well, we did not map against elevation, which might influence how quickly some of the needed services might be rendered inaccessible.
+
+What we find is that downtown New Orleans is the best suited given its density of services, and that the lower 9th ward, pushing east and heavily exposed, is broadly the worst off in terms of service accessibility. Physical, social, and economic vulnerability overlap in very clear ways, showing that high-income indicates high-access and vice versa. The Desire neighborhood in particular, however, is the most acute example of lowest-income and lowest-resource. Once identified, we did research around Desire, and found that it has recently been recognized as one of the most dangerous neighborhoods in the country, and so such accessibility to services as mentioned is both unsurprising and deeply difficult to remedy.
+
+While it makes little sense to argue for either implementation of services where they will not be used or abandonment of an already vulnerable neighborhood, this potentially reveals opportunities to offer more services on the periphery of Desire. This should also drive home the point of the need for service access and hubs for multiple services around several other neighborhoods, particularly those that are more exposed to flood-risk and have less recourse should emergencies occur (downtown New Orleans has easy access to multiple neighborhoods outside of the bowl, where Desire and the lower 9th have to go through the most flood-prone areas just to get out). 

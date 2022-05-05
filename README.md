@@ -2,7 +2,8 @@
 
 ### View:
 - [Research Question](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-question)
-
+- [Research Approach](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-approach)
+- [Methodology](https://github.com/AndrewAtkinsonBernd/FinalProjectSite/blob/main/README.md#research-approach)
 
 ## Research question:
 _What are the remaining gaps in emergency & resilience services that communities need in post-Katrina New Orleans?_

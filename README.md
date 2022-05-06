@@ -52,7 +52,7 @@ _2C. High economic vulnerability_
 ![Image](maps/Povextract.png)
 
 
-### 3. Asses recource density through Hexbin mapping of individual resources
+### 3. Assess recource density through Hexbin mapping of individual resources
 
 _3a. Drug Stores (Medicine and First Aid Proxy)_
 
@@ -100,9 +100,10 @@ _Here we have combined resource access with poverty weights added, broadly showi
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 
-### 7. etwork analysis for areas within .5 miles of combined resources
+### 7. Network analysis for areas within .5 miles of combined resources
 
 ### 8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
+_Here what we wanted to see was what people were actually searching for in terms of emergency resources, compared to what we thought they might be searching for. Ultimately this was an exercise in nuanced human behavior and how people actually describe what they need in written form, ostensibly as search terms. Because there is no "clean" way of seeing what the top search terms were that year or those months, we had to manually go in and hypothesize how people might actually search for things, and then use the associated search terms to validate what was being sought after. This was not as scientific as we had hoped, but also underscored the need for more obvious search trend data around these themes._
 
 ### 9. Manual investigation into peaks and valleys around other similar search term proxies
 

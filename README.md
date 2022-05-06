@@ -64,7 +64,7 @@ _Total combined resources (gross, no weighting)
 ![Image](/maps/ResourceDensity.png)
 
 _Weighted Ressource Access
-![Image](/maps/ResourceDensityW.png.png)
+![Image](/maps/ResourceDensityW.png)
 
 ## Summary of Findings:
 

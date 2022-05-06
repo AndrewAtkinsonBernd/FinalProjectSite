@@ -23,15 +23,16 @@ In comparing what people actually have access to and what they actually want (or
 
 ## Specific Methodology:
 
-1. Use census data to show percent of population living below 50% of the poverty line and see what neighborhoods may be worth focusing on.
-2. Asses recource density through Hexbin maping of individual resources (like hardware stores, or grocery stores)
-3. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
-3. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
-4. Network analysis for areas within .5 miles of individual resources
-5. etwork analysis for areas within .5 miles of combined resources
-6. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
-7. Manual investigation into peaks and valleys around other similar search term proxies
-8. Comparison of manual search trend findings with data analysis* 
+1. Limit all data to target area by intersecting data sets with GeoJson targetting downtown New Orleans and East New Orleans.
+2. Use census data to show percent of population living below 50% of the poverty line and see what neighborhoods may be worth focusing on.
+3. Asses recource density through Hexbin maping of individual resources (like hardware stores, or grocery stores)
+4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
+5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
+6. Network analysis for areas within .5 miles of individual resources
+7. etwork analysis for areas within .5 miles of combined resources
+8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
+9. Manual investigation into peaks and valleys around other similar search term proxies
+10. Comparison of manual search trend findings with data analysis* 
 
 
 ### 1. Use census data to show percent of population living below 50% of the poverty line

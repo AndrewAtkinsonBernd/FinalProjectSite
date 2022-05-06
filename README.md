@@ -43,11 +43,13 @@ _2a. Poverty metric by Census Tract_
 _This initial map was to highlight places of interest and potential focus given income dispartity and resource disparity. Here we see areas where the population is is at least 50% below the poverty line. What we see in simple terms is that there are small pockets of slightly elevated poverty in the downtown core, with one hotspot in the northeast of the city around the Desire neighborhood._
 
 
-
-_2b. Poverty in apx .3 square mile Hexbin
+_2b. Poverty in apx .3 square mile Hexbin_
 ![Image](maps/HexPov.png)
 _Following our hexbin approach to resource, we wanted to match the same for population at least 50% below the poverty line. Here the Desire neighborhood becomes even more pronounced as a place of concern, highlighted in bright yellow. New Orleans East is also shown to be of concern in green._
 
+
+_2C. High economic vulnerability_
+![Image](maps/Povextract.png)
 
 
 ### 3. Asses recource density through Hexbin mapping of individual resources
@@ -105,6 +107,10 @@ _Here we have combined resource access with poverty weights added, broadly showi
 ### 9. Manual investigation into peaks and valleys around other similar search term proxies
 
 ### 10. Comparison of manual search trend findings with data analysis* 
+
+### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
+
+
 
 ## Summary of Findings:
 

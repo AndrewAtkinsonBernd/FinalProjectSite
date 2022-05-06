@@ -31,7 +31,12 @@ In comparing what people actually have access to and what they actually want (or
 5. etwork analysis for areas within .5 miles of combined resources
 6. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
 7. Manual investigation into peaks and valleys around other similar search term proxies
-8. Comparison of manual search trend findings with data analysis*
+8. Comparison of manual search trend findings with data analysis* 
+
+
+## 1. Use census data to show percent of population living below 50% of the poverty line
+
+![Image](maps/PovertyClip.png)
 
 ## Summary of Findings:
 

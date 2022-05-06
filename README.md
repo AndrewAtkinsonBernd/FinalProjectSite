@@ -45,34 +45,56 @@ _This initial map was to highlight places of interest and potential focus given 
 
 _2b. Poverty in apx .3 square mile Hexbin
 ![Image](maps/HexPov.png)
+_Following our hexbin approach to resource, we wanted to match the same for population at least 50% below the poverty line. Here the Desire neighborhood becomes even more pronounced as a place of concern, highlighted in bright yellow. New Orleans East is also shown to be of concern in green._
 
 
-### 3. Asses recource density through Hexbin maping of individual resources
+### 3. Asses recource density through Hexbin mapping of individual resources
 
 _3a. Drug Stores (Medicine and First Aid Proxy)_
 
 ![Image](maps/DrugDensity.png)
+_Drug stores function as a proxy for medical supplies, and while we still see some concentration of resources in the downtown core, we also see a long corridor of access along the north end of the city. Hospitals and health clinics would have provided a more robust picture of more formal medical access, but this also shows that at a more informal level, of where people might able to or be forced to go for non-life threatening injuries. While not alone, Desire falls into a low access area._
 
 _3b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardwareDensity.png)
+_Hardware stores function as a proxy for indicating any amount of building resources, especially for plywood leading up and following hurricanes or tarps and other roof fixes. Given that there are not a huge amount of hardware stores in the city, and that some residents have simply previously purchased hardware-related fixes, we do not see any massive hotspots for hardware store access. Most of them, somewhat unsurprisingly, are concentrated in the downtown areas. While certainly  not alone, Desire falls into a low access area._
 
 _3c. Gas Stations (Evacuation and Energy Preperation)_
 ![Image](maps/GasDensity.png)
+_Gas station access was a surprise, not in the density around the downtown core, but that the eastern half of the city–which would ostensibly have the hardest time evacuating by car–has almost no gas stations at all. This will absolutely have downstream effects of further resource access (services you might need a car for), and also for services around small fixes and snacks. While not alone, Desire falls into a low access area._
+
 
 _3d. Grocery Stores (Food Access)_
 ![Image](maps/GroceryDensity.png)
+_Grocery stores as food access were a much more fruitful place of inquiry and showed resource disparities and hotspots more clearly. The green spot in the northeast of the city shows another “main drag”. Here, Desire’s lack of access is more pronounced, as it surrounded by higher resource access. Grocery stores, certainly food deserts, often are a symptom of much greater disparities._
 
 _3e. Restaurants (Disaster Shelter and Food Access)_
 ![Image](maps/RestaruantDensity.png)
+_Restaurants to a certain degree functioned as food-access proxies, knowing that many restaurants remain open, or reopen, as post-hurricane resources (like Waffle House, has become an official measurement of hurricane severity through FEMA). The concentration of restaurants downtown is unsurprising, and the areas outside of it with blue access may also double as “main drags” in those neighborhoods, where other resources may be available. While not alone, Desire falls into a low access area._
 
 ### 4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
 
 _Total combined resources (gross, no weighting)_
 ![Image](/maps/ResourceDensity.png)
+_Overall resource density shows a much more nuanced understanding of resource access around downtown and east new orleans. We see higher access in the downtown core in a broad sense, and lower access in the northeast and eastern areas of the city. There is a pronounced lack of resource density just east of the downtown core: Desire neighborhood._
+
 
 _Weighted Ressource Access_
 ![Image](/maps/ResourceDensityW.png)
+_Here we have combined resource access with poverty weights added, broadly showing that the downtown core has lots of resources, New Orleans East and Desire are broadly low-income and low-resource, with pockets of the city in transition. A few spots in the east of the city show some promise, but the area directly east and northeast of the downtown core show the most pronounced areas of low-income, low-resource access._
+
+### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
+
+### 6. Network analysis for areas within .5 miles of individual resources
+
+### 7. etwork analysis for areas within .5 miles of combined resources
+
+### 8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
+
+### 9. Manual investigation into peaks and valleys around other similar search term proxies
+
+### 10. Comparison of manual search trend findings with data analysis* 
 
 ## Summary of Findings:
 

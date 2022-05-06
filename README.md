@@ -99,7 +99,7 @@ _Here we have combined resource access with poverty weights added, broadly showi
 ### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
 
 _Weighted Resource Vulnerability overlaid with areas where 40% or more of the population live below 50% of the poverty line_
-![Image](maps/Povertyover.png)
+![Image](maps/Resourceover.png)
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 

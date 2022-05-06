@@ -34,7 +34,7 @@ In comparing what people actually have access to and what they actually want (or
 8. Comparison of manual search trend findings with data analysis* 
 
 
-## 1. Use census data to show percent of population living below 50% of the poverty line
+# 1. Use census data to show percent of population living below 50% of the poverty line
 
 ![Image](maps/PovertyClip.png)
 

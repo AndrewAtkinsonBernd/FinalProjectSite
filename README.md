@@ -37,25 +37,29 @@ In comparing what people actually have access to and what they actually want (or
 
 ### 2. Use census data to show percent of population living below 50% of the poverty line
 
+_2a. Poverty metric by Census Tract_
 ![Image](maps/PovertyClip.png)
+
+_2b. Poverty in apx .3 square mile Hexbin
+
 
 ### 3. Asses recource density through Hexbin maping of individual resources
 
-_2a. Drug Stores (Medicine and First Aid Proxy)_
+_3a. Drug Stores (Medicine and First Aid Proxy)_
 
 ![Image](maps/DrugDensity.png)
 
-_2b. Hardware Stores (Disaster Preperation)_
+_3b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardwareDensity.png)
 
-_2c. Gas Stations (Evacuation and Energy Preperation)_
+_3c. Gas Stations (Evacuation and Energy Preperation)_
 ![Image](maps/GasDensity.png)
 
-_2d. Grocery Stores (Food Access)_
+_3d. Grocery Stores (Food Access)_
 ![Image](maps/GroceryDensity.png)
 
-_2e. Restaurants (Disaster Shelter and Food Access)_
+_3e. Restaurants (Disaster Shelter and Food Access)_
 ![Image](maps/RestaruantDensity.png)
 
 ### 4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density

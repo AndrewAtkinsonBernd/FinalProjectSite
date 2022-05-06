@@ -35,11 +35,11 @@ In comparing what people actually have access to and what they actually want (or
 10. Comparison of manual search trend findings with data analysis* 
 
 
-### 1. Use census data to show percent of population living below 50% of the poverty line
+### 2. Use census data to show percent of population living below 50% of the poverty line
 
 ![Image](maps/PovertyClip.png)
 
-### 2. Asses recource density through Hexbin maping of individual resources
+### 3. Asses recource density through Hexbin maping of individual resources
 
 _2a. Drug Stores (Medice and First Aid Proxy)_
 
@@ -57,6 +57,10 @@ _2d. Grocery Stores (Food Access)
 
 _2e. Restaurants (Disaster Shelter and Food Access)
 ![Image](maps/RestaruantDensity.png)
+
+### 4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
+
+
 
 ## Summary of Findings:
 

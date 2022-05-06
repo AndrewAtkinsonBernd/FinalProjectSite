@@ -46,6 +46,9 @@ _This initial map was to highlight places of interest and potential focus given 
 _2b. Poverty in apx .3 square mile Hexbin_
 ![Image](maps/HexPov.png)
 
+_2C. High economic vulnerability_
+![Image](maps/Povextract.png)
+
 
 ### 3. Asses recource density through Hexbin maping of individual resources
 

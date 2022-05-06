@@ -60,7 +60,8 @@ _2e. Restaurants (Disaster Shelter and Food Access)
 
 ### 4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
 
-
+_Total combined resources (gross, no weighting)
+![Image](/maps/ResourceDensity.png)
 
 ## Summary of Findings:
 

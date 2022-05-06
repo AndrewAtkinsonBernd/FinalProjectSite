@@ -41,6 +41,7 @@ _2a. Poverty metric by Census Tract_
 ![Image](maps/PovertyClip.png)
 
 _2b. Poverty in apx .3 square mile Hexbin
+![Image](maps/HexPov.png)
 
 
 ### 3. Asses recource density through Hexbin maping of individual resources

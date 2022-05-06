@@ -44,6 +44,13 @@ _2a. Drug Stores (Medice and First Aid Proxy)_
 
 ![Image](maps/DrugDensity.png)
 
+_2b. Hardware Stores (Disaster Preperation)_
+
+![Image](maps/HardwareDensity.png)
+
+
+
+
 ## Summary of Findings:
 
 Our findings show a few obvious points, but broadly need to be taken with the caveat that this research was done with a limited set of data that may not effectively account for all the proxies that represent local needs. For example, we were not able to access data for church locations or non-hospital health clinics, which might skew what looks like access. Just as well, we did not map against elevation, which might influence how quickly some of the needed services might be rendered inaccessible.

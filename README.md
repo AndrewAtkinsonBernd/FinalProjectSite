@@ -52,7 +52,10 @@ _2b. Hardware Stores (Disaster Preperation)_
 _2c. Gas Stations (Evacuation and Energy Preperation)
 ![Image](maps/GasDensity.png)
 
-_2d. Restaurants (Disaster Shelter and Food Access)
+_2d. Grocery Stores (Food Access)
+![Image](maps/GroceryDensity.png)
+
+_2e. Restaurants (Disaster Shelter and Food Access)
 ![Image](maps/RestaruantDensity.png)
 
 ## Summary of Findings:

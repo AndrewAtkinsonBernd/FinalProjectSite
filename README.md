@@ -40,7 +40,9 @@ In comparing what people actually have access to and what they actually want (or
 
 ### 2. Asses recource density through Hexbin maping of individual resources
 
-_2a. Drug Stores_
+_2a. Drug Stores (Medice and First Aid Proxy)_
+
+![Image](maps/DrugDensity.png)
 
 ## Summary of Findings:
 

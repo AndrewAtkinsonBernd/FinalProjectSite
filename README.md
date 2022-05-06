@@ -49,6 +49,8 @@ _2b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardwareDensity.png)
 
+_2c. Gas Stations (Evacuation and Energy Preperation)
+![Image](maps/GasDensity.png)
 
 
 

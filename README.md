@@ -1,4 +1,4 @@
-# Assessing community-needs gaps for resilience hubs in New Orleans
+### Assessing community-needs gaps for resilience hubs in New Orleans
 
 
 
@@ -37,6 +37,10 @@ In comparing what people actually have access to and what they actually want (or
 # 1. Use census data to show percent of population living below 50% of the poverty line
 
 ![Image](maps/PovertyClip.png)
+
+# 2. Asses recource density through Hexbin maping of individual resources
+
+    _Drug Stores_
 
 ## Summary of Findings:
 

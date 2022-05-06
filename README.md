@@ -40,7 +40,7 @@ In comparing what people actually have access to and what they actually want (or
 
 ### 2. Asses recource density through Hexbin maping of individual resources
 
-    _Drug Stores_
+_2a. Drug Stores_
 
 ## Summary of Findings:
 

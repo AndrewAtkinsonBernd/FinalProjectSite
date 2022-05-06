@@ -43,7 +43,7 @@ _2a. Poverty metric by Census Tract_
 _This initial map was to highlight places of interest and potential focus given income dispartity and resource disparity. Here we see areas where the population is is at least 50% below the poverty line. What we see in simple terms is that there are small pockets of slightly elevated poverty in the downtown core, with one hotspot in the northeast of the city around the Desire neighborhood._
 
 
-_2b. Poverty in apx .3 square mile Hexbin
+_2b. Poverty in apx .3 square mile Hexbin_
 ![Image](maps/HexPov.png)
 
 

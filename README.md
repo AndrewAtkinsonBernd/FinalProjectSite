@@ -49,21 +49,21 @@ _2b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardwareDensity.png)
 
-_2c. Gas Stations (Evacuation and Energy Preperation)
+_2c. Gas Stations (Evacuation and Energy Preperation)_
 ![Image](maps/GasDensity.png)
 
-_2d. Grocery Stores (Food Access)
+_2d. Grocery Stores (Food Access)_
 ![Image](maps/GroceryDensity.png)
 
-_2e. Restaurants (Disaster Shelter and Food Access)
+_2e. Restaurants (Disaster Shelter and Food Access)_
 ![Image](maps/RestaruantDensity.png)
 
 ### 4. Understand combined resource vulnerability through Hexbin mapping of weighted resource density
 
-_Total combined resources (gross, no weighting)
+_Total combined resources (gross, no weighting)_
 ![Image](/maps/ResourceDensity.png)
 
-_Weighted Ressource Access
+_Weighted Ressource Access_
 ![Image](/maps/ResourceDensityW.png)
 
 ## Summary of Findings:

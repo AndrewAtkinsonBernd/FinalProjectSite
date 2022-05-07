@@ -131,7 +131,7 @@ _3c. Gas Stations (Evacuation and Energy Preperation)_
 
 _3d. Grocery Stores (Food Access)_
 
-![Image](maps/GroceryNet.png)
+![Image](maps/GrocNet.png)
 
 
 _3e. Restaurants (Disaster Shelter and Food Access)_

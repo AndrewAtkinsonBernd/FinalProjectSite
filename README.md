@@ -133,12 +133,12 @@ _8a. Search terms around initial data_
 _9a. Search terms around follow-up data_
 
 ![Image](maps/first_spike.png)
-_Here we see an obvious difference, with search terms clearly spiking in the aftermath of Katrina. These are things people are clearly searching for, and so perhaps it was human error on our part simply not knowing how residents actually describe their needs and concerns.
+_Here we see an obvious difference, with search terms clearly spiking in the aftermath of Katrina. These are things people are clearly searching for, and so perhaps it was human error on our part simply not knowing how residents actually describe their needs and concerns._
 
 _9b. Search terms around follow-up data_
 
 ![Image](maps/second_spike.png)
-_Similarly, we see that “clean water” was the actual term for services associated with grocery stores, “red cross” for medical, and “gas prices” for gas stations. Evacuation and gas prices also go hand in hand, and certainly “FEMA” would reveal much needed relief services across the board. 
+_Similarly, we see that “clean water” was the actual term for services associated with grocery stores, “red cross” for medical, and “gas prices” for gas stations. Evacuation and gas prices also go hand in hand, and certainly “FEMA” would reveal much needed relief services across the board._ 
 
 _9c. Search terms around follow-up data_
 

@@ -108,18 +108,60 @@ _6a. Drug Stores (Medicine and First Aid Proxy)_
 
 ![Image](maps/DrugNet.png)
 
+_Through the network analysis of drugstore access, again as some level of medical service access, we see a very obvious hub in eastern downtown with several yellow pockets across thec city, but still predominantly downtown. While this may not show lack of medical access on its face, it does suggest that downtown area and density may have disproportionate effects on resource access._
+
+
 _6b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardNet.png)
 
+_Through the network analysis of hardware stores, we see that very few areas actually have a 0.5 mile access point for hardware stores, and is mostly heavily visible in the eastern part of the downtown core. There are a few other areas shown in orange and pockets of sparse red, but the obvious concentration is by the riverbend in eastern downtown._
+
+
 ### 7. Network analysis for areas within .5 miles of combined resources
 
 ### 8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
-_Here what we wanted to see was what people were actually searching for in terms of emergency resources, compared to what we thought they might be searching for. Ultimately this was an exercise in nuanced human behavior and how people actually describe what they need in written form, ostensibly as search terms. Because there is no "clean" way of seeing what the top search terms were that year or those months, we had to manually go in and hypothesize how people might actually search for things, and then use the associated search terms to validate what was being sought after. This was not as scientific as we had hoped, but also underscored the need for more obvious search trend data around these themes._
+
+Here what we wanted to see was what people were actually searching for in terms of emergency resources, compared to what we thought they might be searching for. Ultimately this was an exercise in nuanced human behavior and how people actually describe what they need in written form, ostensibly as search terms. Because there is no "clean" way of seeing what the top search terms were that year or those months, we had to manually go in and hypothesize how people might actually search for things, and then use the associated search terms to validate what was being sought after. This was not as scientific as we had hoped, but also underscored the need for more obvious search trend data around these themes.
+
+_8a. Search terms around initial data_
+
+![Image](maps/initial.png)
 
 ### 9. Manual investigation into peaks and valleys around other similar search term proxies
 
+_9a. Search terms around follow-up data_
+
+![Image](maps/first_spike.png)
+_Here we see an obvious difference, with search terms clearly spiking in the aftermath of Katrina. These are things people are clearly searching for, and so perhaps it was human error on our part simply not knowing how residents actually describe their needs and concerns.
+
+_9b. Search terms around follow-up data_
+
+![Image](maps/second_spike.png)
+_Similarly, we see that “clean water” was the actual term for services associated with grocery stores, “red cross” for medical, and “gas prices” for gas stations. Evacuation and gas prices also go hand in hand, and certainly “FEMA” would reveal much needed relief services across the board. 
+
+_9c. Search terms around follow-up data_
+
+![Image](maps/third_spike.png)
+_Here we see other search terms that started coming to the fore once we "learned" how people were searching for needed services or concerns, and broadly they are looking into the problem, not a service for the solution. That is how they are searching for it, at least. "Roof" not "tarp", "housing" not "shutters", "clean water" not "supermarket" or "filters". We tried to use baseline searches to see what was actually spiking, but we found little consistency. Ultimately each of these simply shows different ways that resident thought to search for services or concerns, but it remains difficult to connect to our actual data analysis of the services offered._
+
+
+_While we recognize that we used proxies for several services, the natural assumption was that to some degree people would still recognize the proxy variables as helpful enough to search for them directly on google before or after Katrina. However, we see that they did not, in fact, search for any of them. Part of this may be internet access in the wake of the storm, but it also shows that these were not directly tied to broader concerns that would have come up for residents. That is, people are not searching for hardware stores, they are searching for ‘roof’ or ‘blue roof’ (blue tarps that go over damaged roofs); they are not searching for grocery stores, they are searching for “clean water”. What this shows on its face is that there is a clear disconnect in services technically available, services people may want, and how they might characterize the services they need or seek out._
+
+
+
 ### 10. Comparison of manual search trend findings with data analysis* 
+
+![Image](maps/initial.png)
+
+_Seeing these two side by side is specifically to note their lack of compatibility for comparison. Here we see all the resources we mapped and analyzed compared to the search results for those specific resources. We see a giant gap, because nobody was searching for them as written. This shows that there is a gap that clearly needs to be addressed between services offered and services sought out._
+
+![Image](maps/third_spike.png)
+![Image](maps/second_spike.png)
+
+_Here we present an_  **equally** _unusable and incompatible comparison in that on the right, we see commonly used search terms, and so it would have been beneficial to map those more specific services, needs, or remedies. Instead, we were only able to showcase terms that are not specifically being searched for. What this shows, among other things, is the need for different data that we can map, deeper search trend data, and a bridge for the resource access that connects the two of them. There cannot exist such an obvious data access gap for needed emergency services._
+
+
 
 ### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
 

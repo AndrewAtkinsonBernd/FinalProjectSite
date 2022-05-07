@@ -103,6 +103,10 @@ _Weighted Resource Vulnerability overlaid with areas where 40% or more of the po
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 
+_6a. Drug Stores (Medicine and First Aid Proxy)_
+
+![Image](maps/DrugNet.png)
+
 ### 7. Network analysis for areas within .5 miles of combined resources
 
 ### 8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina

@@ -176,14 +176,20 @@ _While we recognize that we used proxies for several services, the natural assum
 
 _10a. Composite data analysis compared to intial search terms_
 
-### ANDREW PUT THE FINAL COMPOSITE DATA ANALYSIS HERE
+
+![Image](maps/ResourceOver.png)
+
+
 ![Image](maps/initial.png)
 
 _Seeing these two side by side is specifically to note their lack of compatibility for comparison. Here we see all the resources we mapped and analyzed compared to the search results for those specific resources. We see a giant gap, because nobody was searching for them as written. This shows that there is a gap that clearly needs to be addressed between services offered and services sought out._
 
 _10b. Composite data analysis compared to follow-up search terms_
 
-### ANDREW PUT THE FINAL COMPOSITE DATA ANALYSIS HERE AGAIN
+
+![Image](maps/ResourceOver.png)
+
+
 ![Image](maps/third_spike.png)
 ![Image](maps/second_spike.png)
 

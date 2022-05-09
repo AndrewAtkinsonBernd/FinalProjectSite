@@ -124,7 +124,7 @@ _Weighted Resource Vulnerability overlaid with areas where 40% or more of the po
 
 Here you can see that the area of interested we identified during the economic exploration, the Desire Area (outlined in orange), is in a very under-resourced location.  Given that this is also the area with the greatest number of people living below 50% of the poverty line, this creates a multiplied vulnerability for this population prepare for or respond to a natural disaster.
 
-![Image](DesireW.png)
+![Image](maps/DesireW.png)
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 

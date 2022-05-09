@@ -124,19 +124,24 @@ _6b. Hardware Stores (Disaster Preperation)_
 
 _Through the network analysis of hardware stores, we see that very few areas actually have a 0.5 mile access point for hardware stores, and is mostly heavily visible in the eastern part of the downtown core. There are a few other areas shown in orange and pockets of sparse red, but the obvious concentration is by the riverbend in eastern downtown._
 
-_3c. Gas Stations (Evacuation and Energy Preperation)_
+_6c. Gas Stations (Evacuation and Energy Preperation)_
 
 ![Image](maps/GasNet.png)
 
+_Through the network analysis of gas station access, we see a much broader corridor of gas station access, unsurprisingly following the highway system, but we also see–in the context of Desire–that all the gas station access is west of the highway, which may imply some very obvious redlining on the part of the city._
 
-_3d. Grocery Stores (Food Access)_
+
+_6d. Grocery Stores (Food Access)_
 
 ![Image](maps/GrocNet.png)
 
+_Grocery store access is much more widespread, but in the downtown area more than anywhere else. The entire north and east sides of the city do not show much, except along some areas closest to highways. Desire is notable in that it is closest the densest access points, but is notably low access itself: this food desert situation may also be a lingering symptom of redlining._
 
-_3e. Restaurants (Disaster Shelter and Food Access)_
+_6e. Restaurants (Disaster Shelter and Food Access)_
 
 ![Image](maps/RestoNet.png)
+
+_Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants (and bars) often become makeshift post-disaster food hubs if many residents are without power, cooking whatever is available. While this can also easily take place anywhere else with the necessary equipment, having multiple options for restaurant equipment that may have some level of backup power offers a higher change food food-access ease for those nearby._
 
 ### 7. Network analysis for areas within .5 miles of combined resources
 
@@ -175,7 +180,7 @@ _While we recognize that we used proxies for several services, the natural assum
 ### 10. Comparison of manual search trend findings with data analysis* 
 
 _10a. Composite data analysis compared to intial search terms_
-
+_In the below maps, we've used empty hex bins to designate areas of note as an easy reference point for comparison. In particular this is used for the downtown core, which is broadly high-income, high-resource, as well as the Desire neighborhood northeast of it, which is broadly low-income, low-resource. In addition, however, we note New Orleans East, the corridor of land along the Gulf Intercoastal Waterway, which empties into Lake Borgne on one side and the Mississippi River on the other. This area is unique in that it has a skewed mix of resources while also perhaps having the most difficulties around evacuation, due its location. In that way, it provides a third variable around which we can note changes and concerns._ 
 
 ![Image](maps/ResourceOver.png)
 

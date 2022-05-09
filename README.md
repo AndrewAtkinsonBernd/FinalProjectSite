@@ -51,6 +51,7 @@ _Following our hexbin approach to resource, we wanted to match the same for popu
 _2c. High economic vulnerability_
 ![Image](maps/Povextract.png)
 
+_Here we issolate the areas where more than 40% of the population is living below 50% of the federal poverty level._
 
 ### 3. Assess recource density through Hexbin mapping of individual resources
 
@@ -87,7 +88,7 @@ Restaurants to a certain degree functioned as food-access proxies, knowing that 
 
 _3f. Schools (Disaster Shelter)_
 
-![Image](maps/SchoolDens.png)
+![Image](maps/SchoolsDens.png)
 
 
 _3f. Major Hospitals (Disaster Medical Response and Shelter)_
@@ -115,9 +116,15 @@ Here we have combined resource access with poverty weights added, broadly showin
 
 ### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
 
-_Weighted Resource Vulnerability overlaid with areas where 40% or more of the population live below 50% of the poverty line_
+_Weighted Resource Vulnerability overlaid with areas where 40% or more of the population live below 50% of the poverty line outlined in RED and areas where there are less than 10% outlined in BLUE_
 
 ![Image](maps/ResourceOver.png)
+
+** Focus on our area of interest, the Desire Area **
+
+Here you can see that the area of interested we identified during the economic exploration, the Desire Area (outlined in orange), is in a very under-resourced location.  Given that this is also the area with the greatest number of people living below 50% of the poverty line, this creates a multiplied vulnerability for this population prepare for or respond to a natural disaster.
+
+![Image](DesireW.png)
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 

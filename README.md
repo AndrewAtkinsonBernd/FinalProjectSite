@@ -324,4 +324,5 @@ _*The lack of access to more in-depth search data combined with caveats around l
 ## Sources/References
 
 Poverty data: US Census, American Community Survey 2020
+
 Resource Data: City of New Orleans Open Data Portal

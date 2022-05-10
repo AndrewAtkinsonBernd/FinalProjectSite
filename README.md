@@ -125,7 +125,7 @@ _Weighted Resource Vulnerability overlaid with areas where 40% or more of the po
 
 **Focus on our area of interest, the Desire Area**
 
-Here you can see that the area of interested we identified during the economic exploration, the Desire Area (outlined in orange), is in a very under-resourced location.  Given that this is also the area with the greatest number of people living below 50% of the poverty line, this creates a multiplied vulnerability for this population prepare for or respond to a natural disaster.
+Here you can see that the area of interested we identified during the economic exploration, the Desire Area (outlined in orange), is in a very under-resourced location.  Given that this is also the area with the greatest number of people living below 50% of the poverty line, this creates a multiplied vulnerability for this population prepare for or respond to a natural disaster.  In comparison to the higher income areas to the northwest of the city, this area is also surrounded by under-resourced areas, with only one neighboring area having any better resource access; similarl under-resourced areas in the higher income northwest of the city generally have well resourced neighbor areas and are not nearly as issolated.
 
 ![Image](maps/DesireW.png)
 

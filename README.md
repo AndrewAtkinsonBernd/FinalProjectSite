@@ -8,7 +8,7 @@ _What are the remaining gaps in emergency & resilience services that communities
 In this project we’re looking at access to different emergency resources in New Orleans neighborhoods as a way of showing disparities between high-income, high resource communities and low-income, low-resource communities (and those in between). By focusing on specific service centers like grocery stores, hospitals, and school, which are incredibly important during and following a natural disaster, we hope to show the need for disaster service hubs in underserved areas, as well as what types of services are missing and where might be the most effective location for them. We looked at the overlap of income and resource availability as well building out network maps for the areas most and least accessible to particular emergency-related services (as well as services broadly).
 
 While the research question itself was fairly straightforward, finding the right data and validating it with actual human behavior is incredibly complex. That is, just because we are mapping grocery stores, doesn't mean that is where residents may look to for food in emergency situations–it may be a church, a food bank, or something else entirely. There is a fundamental gap between services currently provided, services people think they need, and services people actually need. 
-We attempted to address this through google search trends, which proved interesting but largely less helpful than we hoped. Part of this was that the manual nature of searching doesn’t readily take into account how humans think or search. That is, where our food and water proxy is a grocery store, they may search for “bottled water”, “relief”, or “FEMA” rather than “grocery store”. This will necessitate some assumptions on our part in interpreting indirectly-related searches, in that “bottled water” should likely signify simply needing clean water, not a specific desire for bottled water per se. We had hoped to validate our map data findings against essentially consumer behavior and the ways New Orleans residents were searching for services, but this did not bear fruit. Given the different between what our maps show people need and what people seem to think they need through common searches, it is also important to note that this may validate a different need to do flood and hurricane education, lest residents’ understanding be detached from reality. 
+We attempted to address this through google search trends, which proved interesting but largely less helpful than we hoped. Part of this was that the manual nature of searching doesn’t readily take into account how humans think or search. That is, where our food and water proxy is a grocery store, they may search for “bottled water”, “relief”, or “FEMA” rather than “grocery store”. This will necessitate some assumptions on our part in interpreting indirectly-related searches, in that “bottled water” should likely signify simply needing clean water, not a specific desire for bottled water per se. We had hoped to validate our map data findings against, essentially, consumer behavior and the ways New Orleans residents were searching for services, but this did not bear fruit. Given the difference between what our maps show people need and what people seem to think they need through common searches, it is also important to note that this may validate a different need to do flood and hurricane education, lest residents’ understanding be detached from reality. 
 
 In comparing what people actually have access to and what they actually want (or think they need) access to, we can attempt to bridge the gap between institutions and communities in easily actionable ways. 
 
@@ -40,12 +40,15 @@ In comparing what people actually have access to and what they actually want (or
 _2a. Poverty metric by Census Tract_
 ![Image](maps/PovertyClip.png)
 
-_This initial map was to highlight places of interest and potential focus given income dispartity and resource disparity. Here we see areas where the population is is at least 50% below the poverty line. What we see in simple terms is that there are small pockets of slightly elevated poverty in the downtown core, with one hotspot in the northeast of the city around the Desire neighborhood._
+_This initial map was to highlight places of interest and potential focus given income dispartity and resource disparity. Here we see the percent of population in census tracts whose income falls at or below 50% of the poverty line. What we see in simple terms is that there are small pockets of slightly elevated poverty in the downtown core, with one hotspot in the northeast of the city around the **Desire Area neighborhood.**_
+
+**We will continue to highlite the Desire Area neighborhood as an area of interest in regards to vulnerability**
 
 
 _2b. Poverty in apx .3 square mile Hexbin_
 ![Image](maps/HexPov.png)
-_Following our hexbin approach to resource, we wanted to match the same for population at least 50% below the poverty line. Here the Desire neighborhood becomes even more pronounced as a place of concern, highlighted in bright yellow. New Orleans East is also shown to be of concern in green._
+
+_To view the poverty data in a manner more similar to how we will visualize our resource data we use a hexbin vissualization for population falling below 50% of the poverty line. Here the **Desire Area** neighborhood becomes even more pronounced as a place of concern, highlighted in bright yellow. New Orleans East is also shown to be of concern in green._
 
 
 _2c. High economic vulnerability_
@@ -91,7 +94,7 @@ _3f. Schools (Disaster Shelter)_
 ![Image](maps/SchoolsDens.png)
 
 
-_3f. Major Hospitals (Disaster Medical Response and Shelter)_
+_3g. Major Hospitals (Disaster Medical Response and Shelter)_
 
 ![Image](maps/HospDens.png)
 
@@ -102,7 +105,7 @@ _Total combined resources (gross, no weighting)_
 
 ![Image](/maps/ResourceDensity.png)
 
-Overall resource density shows a much more nuanced understanding of resource access around downtown and east new orleans. We see higher access in the downtown core in a broad sense, and lower access in the northeast and eastern areas of the city. There is a pronounced lack of resource density just east of the downtown core: Desire neighborhood.
+Overall resource density shows a much more nuanced understanding of resource access around downtown and east new orleans. We see higher access in the downtown core in a broad sense, and lower access in the northeast and eastern areas of the city. There is a pronounced lack of resource density just east of the downtown core: **Desire Area neighborhood**.
 
 
 _Weighted Ressource Access_
@@ -111,7 +114,7 @@ _Weighted Ressource Access_
 
 _To normalize these numbers in a more useful way assigned weights to each individual resource count availability per hexbin area.  Based on personal and accademic experience an knowledge of the author, benchmarks amounts for each resource were set for a minimum number of that resource needed in a neighborhood (here apx .3 square miles).  A score of "0" indicates that a neighborhood had the benchmark number of a specific resource within their hexbin, with possitive and negative integer wieghts between "-2" and "2" representing varying levels of lack or excess of that resource (the scoring can be found in the appendix)._
 
-Here we have combined resource access with poverty weights added, broadly showing that the downtown core has lots of resources, New Orleans East and Desire are broadly low-income and low-resource, with pockets of the city in transition. A few spots in the east of the city show some promise, but the area directly east and northeast of the downtown core show the most pronounced areas of low-income, low-resource access.
+Here we have combined wieghted resource access broadly showing that the downtown core is sufficiently recourced (or surpluss resourced), New Orleans East and Desire are broadly low-income and low-resource, with pockets of the city in transition. A few spots in the east of the city show some promise, but the area directly east and northeast of the downtown core show the most pronounced areas of low-resource access.
 
 
 ### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
@@ -120,7 +123,7 @@ _Weighted Resource Vulnerability overlaid with areas where 40% or more of the po
 
 ![Image](maps/ResourceOver.png)
 
-** Focus on our area of interest, the Desire Area **
+**Focus on our area of interest, the Desire Area**
 
 Here you can see that the area of interested we identified during the economic exploration, the Desire Area (outlined in orange), is in a very under-resourced location.  Given that this is also the area with the greatest number of people living below 50% of the poverty line, this creates a multiplied vulnerability for this population prepare for or respond to a natural disaster.
 
@@ -128,41 +131,71 @@ Here you can see that the area of interested we identified during the economic e
 
 ### 6. Network analysis for areas within .5 miles of individual resources
 
+Here look at our findings in a slightly different way to gain a more robust understdaning of true access rather than simple geographic density.  In this section we explore how many resources are accessible to each part of the city within aproximately .5 miles through a node network analysis. Here we focus our network to .5 miles to understand immediate access to resources when people may have limitted time or capacity to get to a resource.
+
 _6a. Drug Stores (Medicine and First Aid Proxy)_
 
 ![Image](maps/DrugNet.png)
 
-_Through the network analysis of drugstore access, again as some level of medical service access, we see a very obvious hub in eastern downtown with several yellow pockets across thec city, but still predominantly downtown. While this may not show lack of medical access on its face, it does suggest that downtown area and density may have disproportionate effects on resource access._
+Through the network analysis of drugstore access, again as some level of medical service access, we see a very obvious hub in eastern downtown with several yellow pockets across thec city, but still predominantly downtown. While this may not show lack of medical access on its face, it does suggest that downtown area and density may have disproportionate effects on resource access.
 
 
 _6b. Hardware Stores (Disaster Preperation)_
 
 ![Image](maps/HardNet.png)
 
-_Through the network analysis of hardware stores, we see that very few areas actually have a 0.5 mile access point for hardware stores, and is mostly heavily visible in the eastern part of the downtown core. There are a few other areas shown in orange and pockets of sparse red, but the obvious concentration is by the riverbend in eastern downtown._
+Through the network analysis of hardware stores, we see that very few areas actually have a 0.5 mile access point for hardware stores, and is mostly heavily visible in the eastern part of the downtown core. There are a few other areas shown in orange and pockets of sparse red, but the obvious concentration is by the riverbend in eastern downtown.
 
 _6c. Gas Stations (Evacuation and Energy Preperation)_
 
 ![Image](maps/GasNet.png)
 
-_Through the network analysis of gas station access, we see a much broader corridor of gas station access, unsurprisingly following the highway system, but we also see–in the context of Desire–that all the gas station access is west of the highway, which may imply some very obvious redlining on the part of the city._
+Through the network analysis of gas station access, we see a much broader corridor of gas station access, unsurprisingly following the highway system, but we also see–in the context of Desire–that all the gas station access is west of the highway, which may imply some very obvious redlining on the part of the city.
 
 
 _6d. Grocery Stores (Food Access)_
 
 ![Image](maps/GrocNet.png)
 
-_Grocery store access is much more widespread, but in the downtown area more than anywhere else. The entire north and east sides of the city do not show much, except along some areas closest to highways. Desire is notable in that it is closest the densest access points, but is notably low access itself: this food desert situation may also be a lingering symptom of redlining._
+Grocery store access is much more widespread, but in the downtown area more than anywhere else. The entire north and east sides of the city do not show much, except along some areas closest to highways. Desire is notable in that it is closest the densest access points, but is notably low access itself: this food desert situation may also be a lingering symptom of redlining.
 
 _6e. Restaurants (Disaster Shelter and Food Access)_
 
 ![Image](maps/RestoNet.png)
 
-_Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants (and bars) often become makeshift post-disaster food hubs if many residents are without power, cooking whatever is available. While this can also easily take place anywhere else with the necessary equipment, having multiple options for restaurant equipment that may have some level of backup power offers a higher change food food-access ease for those nearby._
+Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants (and bars) often become makeshift post-disaster food hubs if many residents are without power, cooking whatever is available. While this can also easily take place anywhere else with the necessary equipment, having multiple options for restaurant equipment that may have some level of backup power offers a higher change food food-access ease for those nearby.
 
-### 7. Network analysis for areas within .5 miles of combined resources
+
+_6f. Schools_
+
+![Image](maps/HospNet.png)
+
+Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants 
+
+_6g. Major Hospital_
+
+![Image](maps/SchoolsNet.png)
+
+Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants 
+
+
+### 7. Network analysis for any resource within .5 miles of combined resources
+
+Here we look to understand what each areas total access to any resource is within .5 miles.  Since some areas, such as downtown, have extremely high numbers of restaurants, we cap the analysis at 50 total resources.  While this does not show us how well accessed a specific area is for all resources, it does give us insight into significantly under-resourced areas which are lacking ANY resource.
 
 ![Image](maps/TotNet.png)
+
+**Understanding this in context with economic vulnerability**
+
+Here we see our economic metric overlaid over the network analysis with areas where 40% or more of the population has income at or below 50% of the poverty line outlined in **RED** and areas where this is than 10% of the population outlined in **BLUE**.
+
+![Image](maps/TotNetOver.png)
+
+**Our discovered area of interest: The Desire Area neighborhood**
+
+Again we see that the Desire Area neighborhood (outlined in orange) is almost completely devoid of any resource access within a half mile.
+
+![Image](maps/TotNetDesire.png)
 
 ### 8. Manual Google trends for 2005 search terms in New Orleans pre and post-Katrina
 

@@ -258,7 +258,7 @@ _Here we present an_  **equally** _unusable and incompatible comparison in that 
 
 Our findings show a few obvious points, but broadly need to be taken with the caveat that this research was done with a limited set of data that may not effectively account for all the proxies that represent local needs. For example, we were not able to access data for church locations or non-hospital health clinics, which might skew what looks like access. Just as well, we did not map against elevation, which might influence how quickly some of the needed services might be rendered inaccessible.
 
-What we find is that downtown New Orleans is the best suited given its density of services, and that the lower 9th ward, pushing east and heavily exposed, is broadly the worst off in terms of service accessibility. Physical, social, and economic vulnerability overlap in very clear ways, showing that high-income indicates high-access and vice versa. The Desire neighborhood in particular, however, is the most acute example of lowest-income and lowest-resource. Once identified, we did research around Desire, and found that it has recently been recognized as one of the most dangerous neighborhoods in the country, and so such accessibility to services as mentioned is both unsurprising and deeply difficult to remedy.
+What we find is that downtown New Orleans is the best suited given its density of services, and that the lower 9th ward, pushing east and heavily exposed, is broadly the worst off in terms of service accessibility. Physical, social, and economic vulnerability overlap showing that, generally speaking, high-income indicates high-access and vice versa. The Desire neighborhood in particular, however, is the most acute example of lowest-income and lowest-resource. Once identified, we did research around Desire, and found that it has recently been recognized as one of the most dangerous neighborhoods in the country, and so such accessibility to services as mentioned is both unsurprising and deeply difficult to remedy.
 
 While it makes little sense to argue for either implementation of services where they will not be used or abandonment of an already vulnerable neighborhood, this potentially reveals opportunities to offer more services on the periphery of Desire. This should also drive home the point of the need for service access and hubs for multiple services around several other neighborhoods, particularly those that are more exposed to flood-risk and have less recourse should emergencies occur (downtown New Orleans has easy access to multiple neighborhoods outside of the bowl, where Desire and the lower 9th have to go through the most flood-prone areas just to get out). 
 
@@ -266,3 +266,55 @@ While it makes little sense to argue for either implementation of services where
 
 _*The lack of access to more in-depth search data combined with caveats around lack of more specific data around resources people actually use in time of need (like churches) rather than the assumed/traditional places like grocery stores also presents a clear need for the NOLA GIS team to take a more community-focused approach to its data and data availability, such that its services might be more equitable and more reflective of local needs._
 
+
+## APPENDIX
+
+### Resource Wieghting
+
+**Drug Stores:**
+- Defficient (score of -1) : 0 drug stores
+- _**Benchmark (score of 0) : 1 drug store within hex**_
+- Surpluss (score of 1) : 1-3 drug stores
+- Excess  (score of 2) : Over 3 drug stores
+
+**Hardware Stores:**
+
+- Extremely Defficient (score of -2) : 0 hardware stores
+- Defficient (score of -1) : 1 hardware store
+- _**Benchmark (score of 0) : 2 hardware stores within hex**_
+- Surpluss (score of 1) : 2-4 hardware stores
+- Excess  (score of 2) : Over 4 hardware stores
+
+**Grocery Stores:**
+
+- Defficient (score of -1) : 0 grocery stores
+- _**Benchmark (score of 0) : 1 grocery stores within hex**_
+- Surpluss (score of 1) : 1-3 grocery stores
+- Excess  (score of 2) : Over 3 grocery stores
+
+**Gas Stations:**
+
+- Defficient (score of -1) : 0 gas stations
+- _**Benchmark (score of 0) : 1 gas station within hex**_
+- Surpluss (score of 1) : 1-3 gas stations
+- Excess  (score of 2) : Over 3 gas stations
+
+**Restaurants:**
+
+- Extremely Defficient (score of -2) : 0 restaurants
+- Defficient (score of -1) : 1 restaurant
+- _**Benchmark (score of 0) : 2-3 restaurants within hex**_
+- Surpluss (score of 1) : 3-5 restaurants
+- Excess  (score of 2) : Over 5 restaurants
+
+**Hospitals:**
+
+- Defficient (score of -1) : 0 hospitals
+- _**Benchmark (score of 0) : 1 hospital within hex**_
+- Surpluss (score of 1) : more than 1 hospital
+
+**Schools:**
+
+- Defficient (score of -1) : 0 schools
+- _**Benchmark (score of 0) : 1 school within hex**_
+- Surpluss (score of 1) : more than 1 school

@@ -163,20 +163,18 @@ _6e. Restaurants (Disaster Shelter and Food Access)_
 
 ![Image](maps/RestoNet.png)
 
-Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants (and bars) often become makeshift post-disaster food hubs if many residents are without power, cooking whatever is available. While this can also easily take place anywhere else with the necessary equipment, having multiple options for restaurant equipment that may have some level of backup power offers a higher change food food-access ease for those nearby.
+Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants (and bars) often become makeshift post-disaster food hubs if many residents are without power, cooking whatever is available. While this can also easily take place anywhere else with the necessary equipment, having multiple options for restaurant equipment that may have some level of backup power offers a higher change food-access ease for those nearby.
 
 
 _6f. Schools_
 
 ![Image](maps/HospNet.png)
 
-Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants 
 
 _6g. Major Hospital_
 
 ![Image](maps/SchoolsNet.png)
 
-Restaurant access is an admittedly skewed data point because inevitably there will be more restaurant access in the downtown/tourist core, but at the same time it is worth noting that restaurants 
 
 
 ### 7. Network analysis for any resource within .5 miles of combined resources

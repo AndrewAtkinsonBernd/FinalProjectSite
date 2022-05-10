@@ -119,7 +119,7 @@ Here we have combined wieghted resource access broadly showing that the downtown
 
 ### 5. Understand multiplied vulnerability density through Hexbin mapping of weighted resource density inclusive of poverty metric
 
-_Weighted Resource Vulnerability overlaid with areas where 40% or more of the population live below 50% of the poverty line outlined in RED and areas where there are less than 10% outlined in BLUE_
+_Weighted Resource Vulnerability overlaid with areas where 40% or more of the population live below 50% of the poverty line outlined in **RED** and areas where there are less than 10% outlined in **BLUE**_
 
 ![Image](maps/ResourceOver.png)
 

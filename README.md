@@ -267,6 +267,7 @@ While it makes little sense to argue for either implementation of services where
 _*The lack of access to more in-depth search data combined with caveats around lack of more specific data around resources people actually use in time of need (like churches) rather than the assumed/traditional places like grocery stores also presents a clear need for the NOLA GIS team to take a more community-focused approach to its data and data availability, such that its services might be more equitable and more reflective of local needs._
 
 
+
 ## APPENDIX
 
 ### Resource Wieghting
@@ -318,3 +319,9 @@ _*The lack of access to more in-depth search data combined with caveats around l
 - Defficient (score of -1) : 0 schools
 - _**Benchmark (score of 0) : 1 school within hex**_
 - Surpluss (score of 1) : more than 1 school
+
+
+## Sources/References
+
+Poverty data: US Census, American Community Survey 2020
+Resource Data: City of New Orleans Open Data Portal

@@ -185,7 +185,7 @@ Here we look to understand what each areas total access to any resource is withi
 
 **Understanding this in context with economic vulnerability**
 
-Here we see our economic metric overlaid over the network analysis with areas where 40% or more of the population has income at or below 50% of the poverty line outlined in **RED** and areas where this is than 10% of the population outlined in **BLUE**.
+Here we see our economic metric overlaid over the network analysis with areas where 40% or more of the population has income at or below 50% of the poverty line outlined in **RED** and areas where this is than 10% of the population outlined in **BLUE**. This will more easily show us comparisons between high-income/high-resource areas and low-income/low-resource areas.
 
 ![Image](maps/TotNetOver.png)
 

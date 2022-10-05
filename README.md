@@ -1,6 +1,6 @@
 # Assessing community-needs gaps for resilience hubs in New Orleans
 
-_Authors: Daniel Starosta & Andrew Atkinson Bernd_
+_Authors: Andrew Atkinson Bernd & Daniel Starosta_
 
 ## Research question:
 _**What are the remaining gaps in emergency & resilience services that communities need in post-Katrina New Orleans?**_
